@@ -1,4 +1,6 @@
 const div = document.getElementById("div#1");
+const div = document.getElementById("div#1");const div = document.getElementById("div#1");
+const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");const div = document.getElementById("div#1");
 
 
 function ShowHide(){
