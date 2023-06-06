@@ -17,3 +17,27 @@ header > h1{
     font-size: 35px;
     color: aliceblue;
 }
+
+.MainUL{
+    margin-top: 25px;
+    left: 0;
+    right: 0;
+    padding: 25px;
+    text-align:center;
+}
+
+.MainUL > li{
+    display: inline;
+    margin: 7.5px;
+    border: solid 1px white;
+    border-radius: 45px;
+    padding: 10px;
+}
+
+.MainUL > li > a{
+    color: rgb(199, 81, 81);
+    font: 900 bolder italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
