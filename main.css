@@ -74,6 +74,7 @@ main > .top-div > p{
     display: block;
     outline: none;
     text-align: center;
+    cursor: pointer;
 }
 
 .Button-show-hide:hover{
