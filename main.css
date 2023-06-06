@@ -1,3 +1,10 @@
+header > h1{
+    left: 0;
+    right: 0;
+    height: 75px;
+    background-color: rgb(87, 86, 86);
+}
+
 main > div {
     background-color: red;
     width: 1300px;
