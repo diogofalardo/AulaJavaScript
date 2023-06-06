@@ -65,7 +65,7 @@ main > .top-div > p{
     font: 900 bolder italic;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    /* border-radius: 25px; */
+    border-radius: 25px;
     padding: 7.5px 5px 7.5px 5px;
     width: 275px;
     margin-left: auto;
