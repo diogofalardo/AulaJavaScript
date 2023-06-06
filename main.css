@@ -7,9 +7,6 @@ header > h1{
     font: 900 bolder italic;
     font-family: 'Courier New', Courier, monospace;
     font-size: 35px;
-}
-
-main > div {
-    width: 1300px;
-    height: 650px;
+    padding-top: 15px;
+    color: aliceblue;
 }
