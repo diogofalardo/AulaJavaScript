@@ -1,4 +1,5 @@
-var div = document.getElementById("div#1");
+const div = document.getElementById("div#1");
+
 
 function ShowHide(){
     if(div.style.display == 'block'){

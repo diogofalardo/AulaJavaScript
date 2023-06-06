@@ -65,7 +65,7 @@ main > .top-div > p{
     font: 900 bolder italic;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    border-radius: 25px;
+    /* border-radius: 25px; */
     padding: 7.5px 5px 7.5px 5px;
     width: 275px;
     margin-left: auto;
@@ -73,16 +73,18 @@ main > .top-div > p{
     margin-top: 35px;
     display: block;
     outline: none;
+    text-align: center;
 }
 
 .Button-show-hide:hover{
     color: rgb(199, 81, 81);
     border: solid 2px aliceblue;
+    outline: none;
 }
 
-.Button-show-hide:focus,
+/* .Button-show-hide:focus,
 .Button-show-hide:active {
   background-color: black;
   transition: none;
-}
+} */
 
